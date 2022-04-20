@@ -1,3 +1,3 @@
-# Computer Science 2
+# Computer Science 3
 
-Course work for CS2 (cs23001 Data Stuctures)
+Course work for CS3 (cs44001 Design Patterns) at Kent State
